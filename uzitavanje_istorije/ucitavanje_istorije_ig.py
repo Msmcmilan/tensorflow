@@ -6,8 +6,8 @@ IG Markets REST API sample with Python
 2015 FemtoTrader
 """
 
-from ig_stream.trading_ig import IGService
-from ig_stream.trading_ig.config import config
+from ig_servis.trading_ig import IGService
+from ig_servis.trading_ig.config import config
 import logging
 
 from rad_sa_bazom import dataframe_u_bazu
